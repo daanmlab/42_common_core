@@ -1,0 +1,6 @@
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/daanmlab/ft_printf.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/daanmlab/libft.git
