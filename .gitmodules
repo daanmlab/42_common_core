@@ -4,3 +4,9 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/daanmlab/libft.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/daanmlab/get_next_line.git
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/daanmlab/push_swap.git
