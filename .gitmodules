@@ -1,12 +1,15 @@
-[submodule "ft_printf"]
-	path = ft_printf
-	url = https://github.com/daanmlab/ft_printf.git
 [submodule "libft"]
-	path = libft
+	path = rank00/libft
 	url = https://github.com/daanmlab/libft.git
+[submodule "ft_printf"]
+	path = rank01/ft_printf
+	url = https://github.com/daanmlab/ft_printf.git
 [submodule "get_next_line"]
-	path = get_next_line
+	path = rank01/get_next_line
 	url = https://github.com/daanmlab/get_next_line.git
 [submodule "push_swap"]
-	path = push_swap
+	path = rank02/push_swap
 	url = https://github.com/daanmlab/push_swap.git
+[submodule "minitalk"]
+	path = rank02/minitalk
+	url = https://github.com/daanmlab/minitalk.git
