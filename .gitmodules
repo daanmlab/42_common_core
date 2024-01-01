@@ -13,3 +13,6 @@
 [submodule "minitalk"]
 	path = rank02/minitalk
 	url = https://github.com/daanmlab/minitalk.git
+[submodule "minishell"]
+	path = rank03/minishell
+	utl = https://github.com/tlouro-c/minishell.git
