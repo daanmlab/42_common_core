@@ -15,4 +15,7 @@
 	url = https://github.com/daanmlab/minitalk.git
 [submodule "minishell"]
 	path = rank03/minishell
-	utl = https://github.com/tlouro-c/minishell.git
+	url = https://github.com/tlouro-c/minishell.git
+[submodule "so_long"]
+	path = rank02/so_long
+	url = https://github.com/daanmlab/so_long.git
