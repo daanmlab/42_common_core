@@ -1,21 +1,28 @@
 [submodule "libft"]
 	path = rank00/libft
 	url = https://github.com/daanmlab/libft.git
+	branch = main
 [submodule "ft_printf"]
 	path = rank01/ft_printf
 	url = https://github.com/daanmlab/ft_printf.git
+	branch = main
 [submodule "get_next_line"]
 	path = rank01/get_next_line
 	url = https://github.com/daanmlab/get_next_line.git
+	branch = main
 [submodule "push_swap"]
 	path = rank02/push_swap
 	url = https://github.com/daanmlab/push_swap.git
+	branch = main
 [submodule "minitalk"]
 	path = rank02/minitalk
 	url = https://github.com/daanmlab/minitalk.git
+	branch = main
 [submodule "minishell"]
 	path = rank03/minishell
 	url = https://github.com/tlouro-c/minishell.git
+	branch = main
 [submodule "so_long"]
 	path = rank02/so_long
 	url = https://github.com/daanmlab/so_long.git
+	branch = main
