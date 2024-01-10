@@ -26,3 +26,7 @@
 	path = rank02/so_long
 	url = https://github.com/daanmlab/so_long.git
 	branch = main
+[submodule "philosophers"]
+	path = rank03/philosophers
+	url = https://github.com/daanmlab/philosophers.git
+	branch = main
