@@ -26,7 +26,7 @@ Here's a snapshot of what I've been working on:
 - **[Minitalk](https://github.com/daanmlab/minitalk):** Implementing a small data exchange program using UNIX signals.
 - **[So_Long](https://github.com/daanmlab/so_long):** Developing a 2D game, focusing on graphical elements and player interaction.
 - **[Philosophers](https://github.com/daanmlab/philosophers):** Exploring threads and processes, simulating the dining philosopher problem.
-- **[Minishell](https://github.com/daanmlab/minishell):** Creating a simple shell to understand process creation and synchronisation.
+- **[Minishell](https://github.com/tlouro-c/minishell):** Creating a simple shell to understand process creation and synchronisation.
 
 ## 🎯 Goals
 
