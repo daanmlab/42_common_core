@@ -39,6 +39,8 @@ My objectives in this program are:
 
 ## 🔔 Stay Updated
 
+<img width="484" alt="Screenshot 2024-02-18 at 16 36 06" src="https://github.com/daanmlab/42_common_core/assets/57676953/679b2847-70a1-4eee-8c91-3f3cd09474f2">
+
 I'll be regularly updating this repository with my latest work and experiences. Stay tuned!
 
 Thank you for visiting, and I hope you enjoy following my journey at 42 Lisboa!
