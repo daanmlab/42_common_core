@@ -33,8 +33,11 @@ Here's a snapshot of what I've been working on:
 - **[CPP Module 04](https://github.com/daanmlab/cpp04):** Subtype polymorphism, abstract classes, and interfaces.
 - **[Inception](https://github.com/daanmlab/inception):** System administration with Docker and docker-compose.
 - **[CPP Module 09](https://github.com/daanmlab/cpp09):** STL containers and algorithms in C++.
-- **[HyperTube](https://github.com/daanmlab/HyperTube):** Full-stack web application for streaming movies via BitTorrent.
 - **[Transcendence](https://github.com/TranscendenceTranscendence/Transcendence):** Final Common Core project — real-time multiplayer Pong with full-stack web development.
+
+## 🚀 Advanced Curriculum
+
+- **[HyperTube](https://github.com/daanmlab/HyperTube):** Full-stack web application for streaming movies via BitTorrent.
 
 ## 🎯 Goals
 

@@ -54,15 +54,11 @@
 	path = rank05/cpp09
 	url = https://github.com/daanmlab/cpp09.git
 	branch = main
-[submodule "HyperTube"]
-	path = rank06/HyperTube
-	url = https://github.com/daanmlab/HyperTube.git
-	branch = main
 [submodule "Transcendence"]
 	path = rank06/Transcendence
 	url = https://github.com/TranscendenceTranscendence/Transcendence.git
 	branch = develop
-[submodule "rank06/Transcendence"]
-	path = rank06/Transcendence
-	url = https://github.com/TranscendenceTranscendence/Transcendence.git
-	branch = develop
+[submodule "advanced/HyperTube"]
+	path = advanced/HyperTube
+	url = https://github.com/daanmlab/HyperTube.git
+	branch = main
