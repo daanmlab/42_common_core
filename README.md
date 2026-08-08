@@ -27,6 +27,14 @@ Here's a snapshot of what I've been working on:
 - **[So_Long](https://github.com/daanmlab/so_long):** Developing a 2D game, focusing on graphical elements and player interaction.
 - **[Philosophers](https://github.com/daanmlab/philosophers):** Exploring threads and processes, simulating the dining philosopher problem.
 - **[Minishell](https://github.com/tlouro-c/minishell):** Creating a simple shell to understand process creation and synchronisation.
+- **[Cub3D](https://github.com/daanmlab/cub3d):** Raycasting engine inspired by Wolfenstein 3D, built with miniLibX.
+- **[CPP Module 02](https://github.com/daanmlab/cpp02):** Ad-hoc polymorphism, operator overloading, and fixed-point numbers.
+- **[CPP Module 03](https://github.com/daanmlab/cpp03):** Inheritance in C++.
+- **[CPP Module 04](https://github.com/daanmlab/cpp04):** Subtype polymorphism, abstract classes, and interfaces.
+- **[Inception](https://github.com/daanmlab/inception):** System administration with Docker and docker-compose.
+- **[CPP Module 09](https://github.com/daanmlab/cpp09):** STL containers and algorithms in C++.
+- **[HyperTube](https://github.com/daanmlab/HyperTube):** Full-stack web application for streaming movies via BitTorrent.
+- **[Transcendence](https://github.com/TranscendenceTranscendence/Transcendence):** Final Common Core project — real-time multiplayer Pong with full-stack web development.
 
 ## 🎯 Goals
 

@@ -30,3 +30,39 @@
 	path = rank03/philosophers
 	url = https://github.com/daanmlab/philosophers.git
 	branch = main
+[submodule "cub3d"]
+	path = rank04/cub3d
+	url = https://github.com/daanmlab/cub3d.git
+	branch = main
+[submodule "cpp02"]
+	path = rank04/cpp02
+	url = https://github.com/daanmlab/cpp02.git
+	branch = main
+[submodule "cpp03"]
+	path = rank04/cpp03
+	url = https://github.com/daanmlab/cpp03.git
+	branch = main
+[submodule "cpp04"]
+	path = rank04/cpp04
+	url = https://github.com/daanmlab/cpp04.git
+	branch = main
+[submodule "inception"]
+	path = rank05/inception
+	url = https://github.com/daanmlab/inception.git
+	branch = main
+[submodule "cpp09"]
+	path = rank05/cpp09
+	url = https://github.com/daanmlab/cpp09.git
+	branch = main
+[submodule "HyperTube"]
+	path = rank06/HyperTube
+	url = https://github.com/daanmlab/HyperTube.git
+	branch = main
+[submodule "Transcendence"]
+	path = rank06/Transcendence
+	url = https://github.com/TranscendenceTranscendence/Transcendence.git
+	branch = develop
+[submodule "rank06/Transcendence"]
+	path = rank06/Transcendence
+	url = https://github.com/TranscendenceTranscendence/Transcendence.git
+	branch = develop
