@@ -62,3 +62,11 @@
 	path = advanced/HyperTube
 	url = https://github.com/daanmlab/HyperTube.git
 	branch = main
+[submodule "advanced/ft_ssl"]
+	path = advanced/ft_ssl
+	url = https://github.com/daanmlab/ft_ssl.git
+	branch = main
+[submodule "advanced/ft_matrix"]
+	path = advanced/ft_matrix
+	url = https://github.com/daanmlab/ft_matrix.git
+	branch = main

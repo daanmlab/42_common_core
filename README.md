@@ -38,6 +38,8 @@ Here's a snapshot of what I've been working on:
 ## 🚀 Advanced Curriculum
 
 - **[HyperTube](https://github.com/daanmlab/HyperTube):** Full-stack web application for streaming movies via BitTorrent.
+- **[ft_ssl](https://github.com/daanmlab/ft_ssl):** Reimplementation of cryptographic hashing commands.
+- **[ft_matrix](https://github.com/daanmlab/ft_matrix):** Linear algebra library for vector and matrix operations.
 
 ## 🎯 Goals
 
